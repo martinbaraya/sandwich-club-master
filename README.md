@@ -17,6 +17,6 @@ The app has two main screens
 - Run app
 
 ## Screenshots
-<img src="https://github.com/martinbaraya/sandwich-club/blob/master/Screenshots/1.png" width="288" height="512" />
-<img src="https://github.com/martinbaraya/sandwich-club/blob/master/Screenshots/2.png" width="288" height="512" />
+![1](https://user-images.githubusercontent.com/45323928/49484621-b3cece80-f805-11e8-8b36-cdb30832a0a7.png)
+![2](https://user-images.githubusercontent.com/45323928/49484629-bb8e7300-f805-11e8-9814-9f06922da8ea.png)
 
